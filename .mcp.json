@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "joai-followups": {
+      "type": "http",
+      "url": "https://cortex.joai.ai/mcp/apps/followups"
+    }
+  }
+}

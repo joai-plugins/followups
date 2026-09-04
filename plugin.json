@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "joai-followups",
+  "version": "0.3.0",
+  "description": "Connect Followups to Claude, Cursor, and ChatGPT through JoAi's hosted MCP app server.",
+  "author": {
+    "name": "JoAi",
+    "email": "support@joai.ai",
+    "url": "https://joai.ai"
+  },
+  "homepage": "https://joai.ai/en/apps/followups",
+  "repository": "https://github.com/JoAiHQ/plugins",
+  "license": "Proprietary",
+  "keywords": [
+    "joai",
+    "mcp",
+    "agent-plugins",
+    "followups"
+  ]
+}
